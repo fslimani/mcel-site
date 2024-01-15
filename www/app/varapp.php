@@ -1,0 +1,3 @@
+<?php 
+$mcelappdomain = "***domain***";
+?>
